@@ -1,0 +1,11 @@
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp2.0\TenMinuteWalk.deps.json
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp2.0\TenMinuteWalk.runtimeconfig.json
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp2.0\TenMinuteWalk.runtimeconfig.dev.json
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp2.0\TenMinuteWalk.dll
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp2.0\TenMinuteWalk.pdb
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp2.0\TenMinuteWalk.csprojResolveAssemblyReference.cache
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp2.0\TenMinuteWalk.csproj.CoreCompileInputs.cache
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp2.0\TenMinuteWalk.AssemblyInfoInputs.cache
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp2.0\TenMinuteWalk.AssemblyInfo.cs
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp2.0\TenMinuteWalk.dll
+C:\Users\Schools_home\source\repos\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp2.0\TenMinuteWalk.pdb

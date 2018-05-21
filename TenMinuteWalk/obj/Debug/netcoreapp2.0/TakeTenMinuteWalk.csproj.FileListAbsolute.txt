@@ -1,0 +1,11 @@
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TakeTenMinuteWalk.csprojResolveAssemblyReference.cache
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TakeTenMinuteWalk.csproj.CoreCompileInputs.cache
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TakeTenMinuteWalk.AssemblyInfoInputs.cache
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TakeTenMinuteWalk.AssemblyInfo.cs
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TakeTenMinuteWalk.deps.json
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TakeTenMinuteWalk.runtimeconfig.json
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TakeTenMinuteWalk.runtimeconfig.dev.json
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TakeTenMinuteWalk.dll
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\TakeTenMinuteWalk.pdb
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TakeTenMinuteWalk.dll
+C:\Users\Schools_home\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\TakeTenMinuteWalk.pdb
